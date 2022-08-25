@@ -1,3 +1,7 @@
+##### === DISCLAIMER ===
+The below questions and the datasets are not mine.
+
+
 ### Introduction
 
 Welcome to the Braintree Analytics Code Challenge!
